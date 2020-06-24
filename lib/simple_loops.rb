@@ -1,3 +1,6 @@
 def loop_message_five_times(string)
-  puts string[5]
+ count = log10whlte count < 5 do
+   puts message
+   count += 1 
+ end 
 end
